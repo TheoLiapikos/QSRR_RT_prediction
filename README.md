@@ -1,5 +1,10 @@
 # QSRR_RT_prediction
 
+## Before execute the code:
+ - Decompress multivolume compressed file 'Datasets.7z.001'. Rename resulting direectory to 'Datasets'.
+ - Decompress compressed file 'RAW_data.7z'.
+
+
 
 #### 1. Datasets creation and preprocessing
 Uses functionality found in 'Preprocess_datasets' class:
